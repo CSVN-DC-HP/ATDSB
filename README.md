@@ -2,7 +2,7 @@
 
 ## Installation
 
-```shell
+```cmd
 npm install
 node main.js
 ```
