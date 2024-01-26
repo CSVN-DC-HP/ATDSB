@@ -11,4 +11,4 @@ npm install
 node main.js
 ```
 
-#### .obt <name of the preset> to start (no preset will default stop the bot.)
+#### .obt (name of the preset) to start (no preset will default stop the bot.)
